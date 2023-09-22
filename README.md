@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ze Liu
+- 👋 Hi, I’m @Zane Leo
 - 🌱 I’m currently in Memorial University as a Computer Science Forth Year Honour Student
 
 
